@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "你好",
+    "src": "assets/sticker-01.png",
+    "id": 1,
+    "category": "问候回应",
+    "preview": "assets/sticker-01.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "早安",
+    "src": "assets/sticker-02.png",
+    "id": 2,
+    "category": "问候回应",
+    "preview": "assets/sticker-02.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "晚安",
+    "src": "assets/sticker-03.png",
+    "id": 3,
+    "category": "问候回应",
+    "preview": "assets/sticker-03.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "收到",
+    "src": "assets/sticker-04.png",
+    "id": 4,
+    "category": "问候回应",
+    "preview": "assets/sticker-04.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "好的",
+    "src": "assets/sticker-05.png",
+    "id": 5,
+    "category": "问候回应",
+    "preview": "assets/sticker-05.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "谢谢",
+    "src": "assets/sticker-06.png",
+    "id": 6,
+    "category": "问候回应",
+    "preview": "assets/sticker-06.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "加油",
+    "src": "assets/sticker-07.png",
+    "id": 7,
+    "category": "同行分享",
+    "preview": "assets/sticker-07.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "抱抱",
+    "src": "assets/sticker-08.png",
+    "id": 8,
+    "category": "同行分享",
+    "preview": "assets/sticker-08.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "开心",
+    "src": "assets/sticker-09.png",
+    "id": 9,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-09.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "惊讶",
+    "src": "assets/sticker-10.png",
+    "id": 10,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-10.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "委屈",
+    "src": "assets/sticker-11.png",
+    "id": 11,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-11.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "抱歉",
+    "src": "assets/sticker-12.png",
+    "id": 12,
+    "category": "问候回应",
+    "preview": "assets/sticker-12.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "等我一下",
+    "src": "assets/sticker-13.png",
+    "id": 13,
+    "category": "同行分享",
+    "preview": "assets/sticker-13.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "辛苦了",
+    "src": "assets/sticker-14.png",
+    "id": 14,
+    "category": "同行分享",
+    "preview": "assets/sticker-14.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "一起呀",
+    "src": "assets/sticker-15.png",
+    "id": 15,
+    "category": "同行分享",
+    "preview": "assets/sticker-15.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "分你一半",
+    "src": "assets/sticker-16.png",
+    "id": 16,
+    "category": "同行分享",
+    "preview": "assets/sticker-16.webp",
+    "format": "浅底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "我来啦",
+    "src": "assets/sticker-17.png",
+    "id": 17,
+    "category": "同行分享",
+    "preview": "assets/sticker-17.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "算我一个",
+    "src": "assets/sticker-18.png",
+    "id": 18,
+    "category": "同行分享",
+    "preview": "assets/sticker-18.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "大的给你",
+    "src": "assets/sticker-19.png",
+    "id": 19,
+    "category": "同行分享",
+    "preview": "assets/sticker-19.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "让我看看",
+    "src": "assets/sticker-20.png",
+    "id": 20,
+    "category": "山间日常",
+    "preview": "assets/sticker-20.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "差点忘了",
+    "src": "assets/sticker-21.png",
+    "id": 21,
+    "category": "山间日常",
+    "preview": "assets/sticker-21.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "累趴了",
+    "src": "assets/sticker-22.png",
+    "id": 22,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-22.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "上班啦",
+    "src": "assets/sticker-23.png",
+    "id": 23,
+    "category": "山间日常",
+    "preview": "assets/sticker-23.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "下班啦",
+    "src": "assets/sticker-24.png",
+    "id": 24,
+    "category": "山间日常",
+    "preview": "assets/sticker-24.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "吃饭啦",
+    "src": "assets/sticker-25.png",
+    "id": 25,
+    "category": "山间日常",
+    "preview": "assets/sticker-25.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "摸鱼中",
+    "src": "assets/sticker-26.png",
+    "id": 26,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-26.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "我裂开了",
+    "src": "assets/sticker-27.png",
+    "id": 27,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-27.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "想你啦",
+    "src": "assets/sticker-28.png",
+    "id": 28,
+    "category": "同行分享",
+    "preview": "assets/sticker-28.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "稍等一下",
+    "src": "assets/sticker-29.png",
+    "id": 29,
+    "category": "问候回应",
+    "preview": "assets/sticker-29.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "哇塞",
+    "src": "assets/sticker-30.png",
+    "id": 30,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-30.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "不慌",
+    "src": "assets/sticker-31.png",
+    "id": 31,
+    "category": "心情瞬间",
+    "preview": "assets/sticker-31.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "name": "冲呀",
+    "src": "assets/sticker-32.png",
+    "id": 32,
+    "category": "同行分享",
+    "preview": "assets/sticker-32.webp",
+    "format": "透明底",
+    "character": "jinyue",
+    "characterName": "金跃"
+  },
+  {
+    "id": "qizai-01",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "早安",
+    "src": "assets/characters/qizai/stickers/qizai-01.png",
+    "preview": "assets/characters/qizai/stickers/qizai-01.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-02",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "抱抱",
+    "src": "assets/characters/qizai/stickers/qizai-02.png",
+    "preview": "assets/characters/qizai/stickers/qizai-02.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-03",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "慢慢陪伴",
+    "src": "assets/characters/qizai/stickers/qizai-03.png",
+    "preview": "assets/characters/qizai/stickers/qizai-03.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-04",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "你好",
+    "src": "assets/characters/qizai/stickers/qizai-04.png",
+    "preview": "assets/characters/qizai/stickers/qizai-04.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-05",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "委屈",
+    "src": "assets/characters/qizai/stickers/qizai-05.png",
+    "preview": "assets/characters/qizai/stickers/qizai-05.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-06",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "收到啦",
+    "src": "assets/characters/qizai/stickers/qizai-06.png",
+    "preview": "assets/characters/qizai/stickers/qizai-06.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-07",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "开心摇摆",
+    "src": "assets/characters/qizai/stickers/qizai-07.png",
+    "preview": "assets/characters/qizai/stickers/qizai-07.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-08",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "惊讶",
+    "src": "assets/characters/qizai/stickers/qizai-08.png",
+    "preview": "assets/characters/qizai/stickers/qizai-08.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-09",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "晚安",
+    "src": "assets/characters/qizai/stickers/qizai-09.png",
+    "preview": "assets/characters/qizai/stickers/qizai-09.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-10",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "好的",
+    "src": "assets/characters/qizai/stickers/qizai-10.png",
+    "preview": "assets/characters/qizai/stickers/qizai-10.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-11",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "倾听",
+    "src": "assets/characters/qizai/stickers/qizai-11.png",
+    "preview": "assets/characters/qizai/stickers/qizai-11.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-12",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "等我一下",
+    "src": "assets/characters/qizai/stickers/qizai-12.png",
+    "preview": "assets/characters/qizai/stickers/qizai-12.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-13",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "加油",
+    "src": "assets/characters/qizai/stickers/qizai-13.png",
+    "preview": "assets/characters/qizai/stickers/qizai-13.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-14",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "暖心杯",
+    "src": "assets/characters/qizai/stickers/qizai-14.png",
+    "preview": "assets/characters/qizai/stickers/qizai-14.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-15",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "谢谢",
+    "src": "assets/characters/qizai/stickers/qizai-15.png",
+    "preview": "assets/characters/qizai/stickers/qizai-15.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "qizai-16",
+    "character": "qizai",
+    "characterName": "七仔",
+    "name": "抱歉",
+    "src": "assets/characters/qizai/stickers/qizai-16.png",
+    "preview": "assets/characters/qizai/stickers/qizai-16.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-01",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "收到",
+    "src": "assets/characters/danxiang/stickers/danxiang-01.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-01.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-02",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "温柔遮阳",
+    "src": "assets/characters/danxiang/stickers/danxiang-02.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-02.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-03",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "问候",
+    "src": "assets/characters/danxiang/stickers/danxiang-03.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-03.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-04",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "惊讶",
+    "src": "assets/characters/danxiang/stickers/danxiang-04.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-04.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-05",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "等我一下",
+    "src": "assets/characters/danxiang/stickers/danxiang-05.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-05.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-06",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "晚安",
+    "src": "assets/characters/danxiang/stickers/danxiang-06.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-06.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-07",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "委屈",
+    "src": "assets/characters/danxiang/stickers/danxiang-07.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-07.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-08",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "迎朝阳",
+    "src": "assets/characters/danxiang/stickers/danxiang-08.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-08.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-09",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "开心",
+    "src": "assets/characters/danxiang/stickers/danxiang-09.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-09.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-10",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "抱抱",
+    "src": "assets/characters/danxiang/stickers/danxiang-10.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-10.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-11",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "加油",
+    "src": "assets/characters/danxiang/stickers/danxiang-11.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-11.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-12",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "有发现",
+    "src": "assets/characters/danxiang/stickers/danxiang-12.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-12.webp",
+    "category": "山间日常",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-13",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "好的",
+    "src": "assets/characters/danxiang/stickers/danxiang-13.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-13.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-14",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "抱歉",
+    "src": "assets/characters/danxiang/stickers/danxiang-14.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-14.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-15",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "谢谢",
+    "src": "assets/characters/danxiang/stickers/danxiang-15.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-15.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "danxiang-16",
+    "character": "danxiang",
+    "characterName": "丹翔",
+    "name": "飞来看看",
+    "src": "assets/characters/danxiang/stickers/danxiang-16.png",
+    "preview": "assets/characters/danxiang/stickers/danxiang-16.webp",
+    "category": "山间日常",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-01",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "问好",
+    "src": "assets/characters/yantuo/stickers/yantuo-01.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-01.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-02",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "早安",
+    "src": "assets/characters/yantuo/stickers/yantuo-02.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-02.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-03",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "走到了",
+    "src": "assets/characters/yantuo/stickers/yantuo-03.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-03.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-04",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "好的",
+    "src": "assets/characters/yantuo/stickers/yantuo-04.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-04.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-05",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "收到",
+    "src": "assets/characters/yantuo/stickers/yantuo-05.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-05.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-06",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "稳住",
+    "src": "assets/characters/yantuo/stickers/yantuo-06.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-06.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-07",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "加油",
+    "src": "assets/characters/yantuo/stickers/yantuo-07.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-07.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-08",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "辛苦了",
+    "src": "assets/characters/yantuo/stickers/yantuo-08.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-08.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-09",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "抱抱",
+    "src": "assets/characters/yantuo/stickers/yantuo-09.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-09.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-10",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "晚安",
+    "src": "assets/characters/yantuo/stickers/yantuo-10.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-10.webp",
+    "category": "问候回应",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-11",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "等我一下",
+    "src": "assets/characters/yantuo/stickers/yantuo-11.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-11.webp",
+    "category": "同行陪伴",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-12",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "开心",
+    "src": "assets/characters/yantuo/stickers/yantuo-12.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-12.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-13",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "委屈等待",
+    "src": "assets/characters/yantuo/stickers/yantuo-13.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-13.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-14",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "惊讶",
+    "src": "assets/characters/yantuo/stickers/yantuo-14.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-14.webp",
+    "category": "心情瞬间",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-15",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "谢谢",
+    "src": "assets/characters/yantuo/stickers/yantuo-15.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-15.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "id": "yantuo-16",
+    "character": "yantuo",
+    "characterName": "岩拓",
+    "name": "抱歉",
+    "src": "assets/characters/yantuo/stickers/yantuo-16.png",
+    "preview": "assets/characters/yantuo/stickers/yantuo-16.webp",
+    "category": "回应确认",
+    "format": "透明底"
+  },
+  {
+    "name": "点头问好",
+    "src": "assets/characters/qizai/stickers/qizai-17.png",
+    "id": "qizai-17",
+    "category": "问候回应",
+    "preview": "assets/characters/qizai/stickers/qizai-17.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "挥手你好",
+    "src": "assets/characters/qizai/stickers/qizai-18.png",
+    "id": "qizai-18",
+    "category": "问候回应",
+    "preview": "assets/characters/qizai/stickers/qizai-18.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "早起伸懒腰",
+    "src": "assets/characters/qizai/stickers/qizai-19.png",
+    "id": "qizai-19",
+    "category": "山间日常",
+    "preview": "assets/characters/qizai/stickers/qizai-19.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "抱竹枕晚安",
+    "src": "assets/characters/qizai/stickers/qizai-20.png",
+    "id": "qizai-20",
+    "category": "山间日常",
+    "preview": "assets/characters/qizai/stickers/qizai-20.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "开心鼓掌",
+    "src": "assets/characters/qizai/stickers/qizai-21.png",
+    "id": "qizai-21",
+    "category": "心情瞬间",
+    "preview": "assets/characters/qizai/stickers/qizai-21.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "给你抱抱",
+    "src": "assets/characters/qizai/stickers/qizai-22.png",
+    "id": "qizai-22",
+    "category": "同行陪伴",
+    "preview": "assets/characters/qizai/stickers/qizai-22.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "认真倾听",
+    "src": "assets/characters/qizai/stickers/qizai-23.png",
+    "id": "qizai-23",
+    "category": "同行陪伴",
+    "preview": "assets/characters/qizai/stickers/qizai-23.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "让我想想",
+    "src": "assets/characters/qizai/stickers/qizai-24.png",
+    "id": "qizai-24",
+    "category": "回应确认",
+    "preview": "assets/characters/qizai/stickers/qizai-24.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "惊讶一下",
+    "src": "assets/characters/qizai/stickers/qizai-25.png",
+    "id": "qizai-25",
+    "category": "心情瞬间",
+    "preview": "assets/characters/qizai/stickers/qizai-25.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "点赞加油",
+    "src": "assets/characters/qizai/stickers/qizai-26.png",
+    "id": "qizai-26",
+    "category": "回应确认",
+    "preview": "assets/characters/qizai/stickers/qizai-26.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "低头抱歉",
+    "src": "assets/characters/qizai/stickers/qizai-27.png",
+    "id": "qizai-27",
+    "category": "问候回应",
+    "preview": "assets/characters/qizai/stickers/qizai-27.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "鞠躬谢谢",
+    "src": "assets/characters/qizai/stickers/qizai-28.png",
+    "id": "qizai-28",
+    "category": "问候回应",
+    "preview": "assets/characters/qizai/stickers/qizai-28.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "快乐摇摆",
+    "src": "assets/characters/qizai/stickers/qizai-29.png",
+    "id": "qizai-29",
+    "category": "心情瞬间",
+    "preview": "assets/characters/qizai/stickers/qizai-29.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "稍等一下",
+    "src": "assets/characters/qizai/stickers/qizai-30.png",
+    "id": "qizai-30",
+    "category": "同行陪伴",
+    "preview": "assets/characters/qizai/stickers/qizai-30.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "暖心一杯",
+    "src": "assets/characters/qizai/stickers/qizai-31.png",
+    "id": "qizai-31",
+    "category": "同行陪伴",
+    "preview": "assets/characters/qizai/stickers/qizai-31.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "陪你坐会儿",
+    "src": "assets/characters/qizai/stickers/qizai-32.png",
+    "id": "qizai-32",
+    "category": "同行陪伴",
+    "preview": "assets/characters/qizai/stickers/qizai-32.webp",
+    "format": "透明底",
+    "character": "qizai",
+    "characterName": "七仔"
+  },
+  {
+    "name": "轻轻问候",
+    "src": "assets/characters/danxiang/stickers/danxiang-17.png",
+    "id": "danxiang-17",
+    "category": "问候回应",
+    "preview": "assets/characters/danxiang/stickers/danxiang-17.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "迎着晨光",
+    "src": "assets/characters/danxiang/stickers/danxiang-18.png",
+    "id": "danxiang-18",
+    "category": "问候回应",
+    "preview": "assets/characters/danxiang/stickers/danxiang-18.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "晚安小憩",
+    "src": "assets/characters/danxiang/stickers/danxiang-19.png",
+    "id": "danxiang-19",
+    "category": "山间日常",
+    "preview": "assets/characters/danxiang/stickers/danxiang-19.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "开心拍翅",
+    "src": "assets/characters/danxiang/stickers/danxiang-20.png",
+    "id": "danxiang-20",
+    "category": "山间日常",
+    "preview": "assets/characters/danxiang/stickers/danxiang-20.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "我来看看",
+    "src": "assets/characters/danxiang/stickers/danxiang-21.png",
+    "id": "danxiang-21",
+    "category": "心情瞬间",
+    "preview": "assets/characters/danxiang/stickers/danxiang-21.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "替你遮阳",
+    "src": "assets/characters/danxiang/stickers/danxiang-22.png",
+    "id": "danxiang-22",
+    "category": "同行陪伴",
+    "preview": "assets/characters/danxiang/stickers/danxiang-22.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "转头惊讶",
+    "src": "assets/characters/danxiang/stickers/danxiang-23.png",
+    "id": "danxiang-23",
+    "category": "同行陪伴",
+    "preview": "assets/characters/danxiang/stickers/danxiang-23.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "振翅出发",
+    "src": "assets/characters/danxiang/stickers/danxiang-24.png",
+    "id": "danxiang-24",
+    "category": "回应确认",
+    "preview": "assets/characters/danxiang/stickers/danxiang-24.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "这里有发现",
+    "src": "assets/characters/danxiang/stickers/danxiang-25.png",
+    "id": "danxiang-25",
+    "category": "心情瞬间",
+    "preview": "assets/characters/danxiang/stickers/danxiang-25.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "鞠躬抱歉",
+    "src": "assets/characters/danxiang/stickers/danxiang-26.png",
+    "id": "danxiang-26",
+    "category": "回应确认",
+    "preview": "assets/characters/danxiang/stickers/danxiang-26.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "展翅致谢",
+    "src": "assets/characters/danxiang/stickers/danxiang-27.png",
+    "id": "danxiang-27",
+    "category": "问候回应",
+    "preview": "assets/characters/danxiang/stickers/danxiang-27.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "高兴起舞",
+    "src": "assets/characters/danxiang/stickers/danxiang-28.png",
+    "id": "danxiang-28",
+    "category": "问候回应",
+    "preview": "assets/characters/danxiang/stickers/danxiang-28.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "耐心等一等",
+    "src": "assets/characters/danxiang/stickers/danxiang-29.png",
+    "id": "danxiang-29",
+    "category": "心情瞬间",
+    "preview": "assets/characters/danxiang/stickers/danxiang-29.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "一起加油",
+    "src": "assets/characters/danxiang/stickers/danxiang-30.png",
+    "id": "danxiang-30",
+    "category": "同行陪伴",
+    "preview": "assets/characters/danxiang/stickers/danxiang-30.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "飞来抱抱",
+    "src": "assets/characters/danxiang/stickers/danxiang-31.png",
+    "id": "danxiang-31",
+    "category": "同行陪伴",
+    "preview": "assets/characters/danxiang/stickers/danxiang-31.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "飞累了歇歇",
+    "src": "assets/characters/danxiang/stickers/danxiang-32.png",
+    "id": "danxiang-32",
+    "category": "同行陪伴",
+    "preview": "assets/characters/danxiang/stickers/danxiang-32.webp",
+    "format": "透明底",
+    "character": "danxiang",
+    "characterName": "丹翔"
+  },
+  {
+    "name": "稳稳问好",
+    "src": "assets/characters/yantuo/stickers/yantuo-17.png",
+    "id": "yantuo-17",
+    "category": "问候回应",
+    "preview": "assets/characters/yantuo/stickers/yantuo-17.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "清晨出发",
+    "src": "assets/characters/yantuo/stickers/yantuo-18.png",
+    "id": "yantuo-18",
+    "category": "问候回应",
+    "preview": "assets/characters/yantuo/stickers/yantuo-18.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "走到驿站了",
+    "src": "assets/characters/yantuo/stickers/yantuo-19.png",
+    "id": "yantuo-19",
+    "category": "山间日常",
+    "preview": "assets/characters/yantuo/stickers/yantuo-19.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "点头好的",
+    "src": "assets/characters/yantuo/stickers/yantuo-20.png",
+    "id": "yantuo-20",
+    "category": "山间日常",
+    "preview": "assets/characters/yantuo/stickers/yantuo-20.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "收到消息",
+    "src": "assets/characters/yantuo/stickers/yantuo-21.png",
+    "id": "yantuo-21",
+    "category": "心情瞬间",
+    "preview": "assets/characters/yantuo/stickers/yantuo-21.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "别着急",
+    "src": "assets/characters/yantuo/stickers/yantuo-22.png",
+    "id": "yantuo-22",
+    "category": "同行陪伴",
+    "preview": "assets/characters/yantuo/stickers/yantuo-22.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "辛苦啦加油",
+    "src": "assets/characters/yantuo/stickers/yantuo-23.png",
+    "id": "yantuo-23",
+    "category": "同行陪伴",
+    "preview": "assets/characters/yantuo/stickers/yantuo-23.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "递上热茶",
+    "src": "assets/characters/yantuo/stickers/yantuo-24.png",
+    "id": "yantuo-24",
+    "category": "回应确认",
+    "preview": "assets/characters/yantuo/stickers/yantuo-24.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "给你抱抱",
+    "src": "assets/characters/yantuo/stickers/yantuo-25.png",
+    "id": "yantuo-25",
+    "category": "心情瞬间",
+    "preview": "assets/characters/yantuo/stickers/yantuo-25.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "晚安歇息",
+    "src": "assets/characters/yantuo/stickers/yantuo-26.png",
+    "id": "yantuo-26",
+    "category": "回应确认",
+    "preview": "assets/characters/yantuo/stickers/yantuo-26.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "我在等你",
+    "src": "assets/characters/yantuo/stickers/yantuo-27.png",
+    "id": "yantuo-27",
+    "category": "问候回应",
+    "preview": "assets/characters/yantuo/stickers/yantuo-27.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "开心笑了",
+    "src": "assets/characters/yantuo/stickers/yantuo-28.png",
+    "id": "yantuo-28",
+    "category": "问候回应",
+    "preview": "assets/characters/yantuo/stickers/yantuo-28.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "回头看一看",
+    "src": "assets/characters/yantuo/stickers/yantuo-29.png",
+    "id": "yantuo-29",
+    "category": "心情瞬间",
+    "preview": "assets/characters/yantuo/stickers/yantuo-29.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "停步惊讶",
+    "src": "assets/characters/yantuo/stickers/yantuo-30.png",
+    "id": "yantuo-30",
+    "category": "同行陪伴",
+    "preview": "assets/characters/yantuo/stickers/yantuo-30.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "低头致谢",
+    "src": "assets/characters/yantuo/stickers/yantuo-31.png",
+    "id": "yantuo-31",
+    "category": "同行陪伴",
+    "preview": "assets/characters/yantuo/stickers/yantuo-31.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  },
+  {
+    "name": "认真道歉",
+    "src": "assets/characters/yantuo/stickers/yantuo-32.png",
+    "id": "yantuo-32",
+    "category": "同行陪伴",
+    "preview": "assets/characters/yantuo/stickers/yantuo-32.webp",
+    "format": "透明底",
+    "character": "yantuo",
+    "characterName": "岩拓"
+  }
+]

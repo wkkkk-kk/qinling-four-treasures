@@ -1,0 +1,58 @@
+[
+  {
+    "character": "jinyue",
+    "title": "分享贴纸与收藏卡",
+    "kind": "template",
+    "description": "日常问候、分享与一起出发的基础贴纸组合。",
+    "image": "assets/works/jinyue-template.svg"
+  },
+  {
+    "character": "jinyue",
+    "title": "大的那一半礼盒",
+    "kind": "feature",
+    "description": "以红围巾、金色卷尾和分享果实为线索，设计收藏卡、徽章与礼盒套装。",
+    "image": "assets/works/jinyue-feature.svg"
+  },
+  {
+    "character": "qizai",
+    "title": "竹影书签与便签",
+    "kind": "template",
+    "description": "以竹叶纹样和倾听姿态构成可日常使用的文具模板。",
+    "image": "assets/works/qizai-template.svg"
+  },
+  {
+    "character": "qizai",
+    "title": "留一个位置随行包",
+    "kind": "feature",
+    "description": "青绿色短披衣转化为帆布袋和软绒挂件，留出安静陪伴的空间。",
+    "image": "assets/works/qizai-feature.svg"
+  },
+  {
+    "character": "danxiang",
+    "title": "湿地明信片与徽章",
+    "kind": "template",
+    "description": "以朱鹮飞行姿态、湿地水纹和晨光构成可延展的基础套组。",
+    "image": "assets/works/danxiang-template.svg"
+  },
+  {
+    "character": "danxiang",
+    "title": "飞近一点丝巾",
+    "kind": "feature",
+    "description": "将朱鹮展翼与水岸曲线转译为轻薄丝巾及珐琅胸针组合。",
+    "image": "assets/works/danxiang-feature.svg"
+  },
+  {
+    "character": "yantuo",
+    "title": "山径杯与路线贴",
+    "kind": "template",
+    "description": "以秦岭山脊、羚牛脚印与夜行提示构成户外实用系列。",
+    "image": "assets/works/yantuo-template.svg"
+  },
+  {
+    "character": "yantuo",
+    "title": "等你到驿站暖灯礼盒",
+    "kind": "feature",
+    "description": "把回望、守候与山路灯光做成暖杯、布章和折叠地图礼盒。",
+    "image": "assets/works/yantuo-feature.svg"
+  }
+]

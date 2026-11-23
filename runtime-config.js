@@ -1,0 +1,1 @@
+window.QinlingConfig = { communityEnabled: false };

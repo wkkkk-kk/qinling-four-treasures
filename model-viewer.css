@@ -1,0 +1,32 @@
+jinyue-model.jy-model {
+  display:block; position:relative; overflow:hidden; width:100%; min-width:0;
+  color:#2d3930; background:#e6e2d6; border:1px solid rgba(46,57,45,.13);
+}
+.jy-model .jy-model-stage {
+  position:relative; width:100%; height:clamp(260px,36vw,450px); isolation:isolate;
+  background:radial-gradient(ellipse 35% 5% at 50% 94%,rgba(82,83,68,.17),transparent 95%),
+             radial-gradient(ellipse at 52% 33%,#f7f3e7 0%,#e8e5d8 46%,#d9d9cb 100%);
+}
+.jy-model .jy-model-stage > * {
+  display:block; position:absolute; inset:0; margin:0; width:100%; height:100%; max-width:none;
+  max-height:none; border:0; border-radius:0; object-fit:contain; padding:0;
+}
+.jy-model .jy-model-video {background:#bfbfbf;}
+.jy-model .jy-model-canvas {touch-action:none;cursor:grab;}
+.jy-model .jy-model-canvas:active {cursor:grabbing;}
+.jy-model .jy-model-bar {display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.75rem;padding:.8rem 1rem;background:#f3f1e8;border-top:1px solid rgba(46,57,45,.16);}
+.jy-model .jy-model-note {color:#445449;font-size:.875rem;line-height:1.45;margin:0;}
+.jy-model .jy-model-actions {display:flex;flex-wrap:wrap;gap:.35rem;}
+.jy-model .jy-model-actions button {display:inline-flex;align-items:center;justify-content:center;min-height:40px;min-width:40px;padding:.45rem .75rem;border:1px solid #b4b9a9;border-radius:3px;background:transparent;color:#304638;cursor:pointer;font:inherit;font-size:.875rem;font-weight:600;line-height:1.2;letter-spacing:0;}
+.jy-model .jy-model-actions button[data-do="start"] {color:#fff7df;background:#264b3c;border-color:#264b3c;}
+.jy-model .jy-model-actions button:hover {color:#fff7df;background:#355645;}
+.jy-model :focus-visible {outline:2px solid #955721;outline-offset:-3px;}
+.jy-model [hidden] {display:none !important;}
+@media(max-width:650px){.jy-model .jy-model-actions button {min-height:44px;min-width:44px;}}
+.jy-model .jy-model-spin {touch-action:none;cursor:grab;overflow:hidden;user-select:none;}
+.jy-model .jy-model-spin:active {cursor:grabbing;}
+.jy-model .jy-model-spin-frame {
+  display:block;position:absolute;left:50%;top:50%;height:100%;aspect-ratio:2 / 3;
+  background-repeat:no-repeat;background-size:900% 400%;
+  transform:translate(-50%,-50%) scale(var(--jy-model-zoom,1));pointer-events:none;
+}
